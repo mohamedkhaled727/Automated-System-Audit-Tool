@@ -11,7 +11,11 @@
    ```
    php artisan migrate:fresh --seed
    ```
-4. Open the app at: **http://localhost/Assignment_2/public**
+4. **Start the Laravel dev server:**
+   ```
+   php artisan serve
+   ```
+5. Open the app at: **http://127.0.0.1:8000**
 
 ### Seeded Accounts
 
